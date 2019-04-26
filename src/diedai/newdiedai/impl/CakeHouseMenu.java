@@ -1,6 +1,6 @@
 package diedai.newdiedai.impl;
 
-import diedai.newdiedai.Iterator;
+import java.util.Iterator;
 import diedai.olddiedai.MenuItem;
 
 import java.util.ArrayList;
