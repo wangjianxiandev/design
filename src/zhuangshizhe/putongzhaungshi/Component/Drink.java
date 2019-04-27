@@ -1,4 +1,4 @@
-package zhuangshizhe;
+package zhuangshizhe.putongzhaungshi.Component;
 
 /**
  * Created with IntelliJ IDEA.

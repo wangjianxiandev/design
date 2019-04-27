@@ -1,7 +1,5 @@
 package jingdiandanli.chocolate;
 
-import zhuangshizhe.Chocolate;
-
 /**
  * Created with IntelliJ IDEA.
  * Description:

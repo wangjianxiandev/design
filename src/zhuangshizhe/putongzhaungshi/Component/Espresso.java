@@ -1,4 +1,6 @@
-package zhuangshizhe;
+package zhuangshizhe.putongzhaungshi.Component;
+
+import zhuangshizhe.putongzhaungshi.Component.Coffee;
 
 /**
  * Created with IntelliJ IDEA.

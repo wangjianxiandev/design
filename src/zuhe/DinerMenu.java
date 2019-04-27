@@ -29,7 +29,7 @@ public class DinerMenu extends MenuComponent {
         }
     }
     private void addItem(String name, String description, boolean vegetable,  float price){
-        MenuItem menuItem = new MenuItem(name, description, vegetable, price);
+        MenuComponent menuItem = new MenuItem(name, description, vegetable, price);
         if(numberOfItems >= MAX_ITEM){
             System.out.println("Sorry is full");
         }else{
@@ -45,7 +45,7 @@ public class DinerMenu extends MenuComponent {
     public Iterator getIterator(){
     return new ComposeIterator(new DinerMenuIterator());
     }
-    class DinerMenuIterator implements Iterator{
+    class DinerMenuIterator implements Iterator{ //实现数组的迭代器
         private int position = 0;
         public DinerMenuIterator(){
             position = 0;

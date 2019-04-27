@@ -1,4 +1,10 @@
-package zhuangshizhe;
+package zhuangshizhe.putongzhaungshi;
+
+import zhuangshizhe.putongzhaungshi.Component.Decaf;
+import zhuangshizhe.putongzhaungshi.Component.Drink;
+import zhuangshizhe.putongzhaungshi.Component.Espresso;
+import zhuangshizhe.putongzhaungshi.Decorator.Chocolate;
+import zhuangshizhe.putongzhaungshi.Decorator.Milk;
 
 /**
  * Created with IntelliJ IDEA.

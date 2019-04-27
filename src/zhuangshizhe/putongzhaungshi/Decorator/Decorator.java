@@ -1,4 +1,6 @@
-package zhuangshizhe;
+package zhuangshizhe.putongzhaungshi.Decorator;
+
+import zhuangshizhe.putongzhaungshi.Component.Drink;
 
 /**
  * Created with IntelliJ IDEA.
