@@ -11,7 +11,7 @@ import zhuangshizhe.putongzhaungshi.Component.Drink;
  */
 public class Decorator extends Drink {
     public Drink obj;//需要被包装的主题
-    public Decorator(Drink obj){
+    public Decorator(Drink obj){//将需要保装的主题传入
         this.obj = obj;
     }
     @Override

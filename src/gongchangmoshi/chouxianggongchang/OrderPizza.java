@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
 public class OrderPizza {
     AbsFactory absFactory;
     public OrderPizza(AbsFactory absFactory){
-
+        setFactory(absFactory);
     }
     public void setFactory(AbsFactory absFactory){
         Pizza pizza = null;

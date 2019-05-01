@@ -13,8 +13,12 @@ import gongchangmoshi.Pizza;
 public class LDOrderPizza implements AbsFactory {
     @Override
     public Pizza createPizza(String orderType) {
-        Pizza pizza = new GreekPizza();
-        System.out.println("制造纽约风味的pizza");
+        Pizza pizza = null;
+        if(orderType.equals("gw")){
+            System.out.println("制造纽约风味的pizza");
+            pizza = new GreekPizza();
+        }
+
         return pizza;
     }
 }

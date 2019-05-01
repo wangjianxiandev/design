@@ -17,8 +17,8 @@ public class cofferBar {
     public static void main(String[] args) {
         Drink order;
         order = new Decaf();
-        System.out.println("prince" + order.cost());
-        System.out.println("order"+order.getDescription());
+        System.out.println("price " + order.cost());
+        System.out.println("order " +order.getDescription());
 
         order = new Espresso();
         order = new Milk(order);//需要加入一个被包装的对象
