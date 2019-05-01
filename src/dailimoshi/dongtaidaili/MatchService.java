@@ -12,6 +12,7 @@ import java.lang.reflect.Proxy;
  */
 public class MatchService {
     public MatchService(){
+        //分别 joe以不同的身份去访问修joe的信息，观察变化
         PersonBean joe = getPersonInfo("joe", "male", "running");
         PersonBean OwnerProxy =  getOwnProxy(joe);
         System.out.println("Name is "+ OwnerProxy.getName());
@@ -42,6 +43,7 @@ public class MatchService {
         return personBean;
     }
     PersonBean getOwnProxy(PersonBean personBean){
+        //new一个Proxy实体，传入具体的对象的加载，具体对象的接口，同时new一个自己的Hanlder的控制逻辑
         return (PersonBean) Proxy.newProxyInstance(personBean.getClass().getClassLoader(), personBean.getClass().getInterfaces(), new OwnerInvocationHandler(personBean));
     }
     PersonBean getNotOwnerProxy(PersonBean personBean){
