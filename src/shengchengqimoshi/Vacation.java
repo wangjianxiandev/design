@@ -29,6 +29,7 @@ public class Vacation {
             e.printStackTrace();
         }
     }
+
     public void setmStDate(String std){
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         try{
@@ -37,6 +38,7 @@ public class Vacation {
             e.printStackTrace();
         }
     }
+
     public Date getmStDate(){
         return mStDate;
     }
@@ -59,6 +61,7 @@ public class Vacation {
     public void setHotel(String mHotels){
         vacationDay.setHotels(mHotels);
     }
+
     public void addTicket(String ticket){
         vacationDay.addTicket(ticket);
     }
@@ -80,6 +83,5 @@ public class Vacation {
         calendar.add(Calendar.DATE, n);
         return calendar.getTime();
     }
-
 
 }

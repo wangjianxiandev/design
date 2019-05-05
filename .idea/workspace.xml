@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c87f1d4c-d11a-4693-8ecb-0deddc893b14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/AbsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Builder3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Builder4d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/DepartMentApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/GroupApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/PisesidentApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerenlianmoshi/VicePresidentApprover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shengchengqimoshi/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,105 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="38" column="88" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1094#1095#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
-                <element signature="e#1594#1595#0" expanded="true" />
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1681#1682#0" expanded="true" />
-                <element signature="e#1721#1722#0" expanded="true" />
-                <element signature="e#1764#1765#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/AbsBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Builder3d.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Builder4d.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Director.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="589">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="e#232#233#0" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
@@ -134,24 +42,111 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/PurchaseRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="26" column="5" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="440">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/Approver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="35" column="49" lean-forward="true" selection-end-line="53" />
+            <state relative-caret-position="198">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/GroupApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="17" column="99" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="99" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/DepartMentApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/VicePresidentApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/PisesidentApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -172,14 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dailimoshi/SoldState.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/WinnerState.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/CandyMachine.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/Monitor.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/RMI/MyRemote.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/RMI/MyRemoteImpl.java" />
-        <option value="$PROJECT_DIR$/src/dailimoshi/RMI/MyRemoteClient.java" />
         <option value="$PROJECT_DIR$/src/dailimoshi/dongtaidaili/PersonBean.java" />
         <option value="$PROJECT_DIR$/src/dailimoshi/dongtaidaili/PersonBeanImpl.java" />
         <option value="$PROJECT_DIR$/src/dailimoshi/dongtaidaili/NotOwnInvocationhandler.java" />
@@ -215,21 +202,29 @@
         <option value="$PROJECT_DIR$/src/qiaojiemoshi/qiaojiemoshishili/TvControl.java" />
         <option value="$PROJECT_DIR$/src/qiaojiemoshi/qiaojiemoshishili/newTvControl.java" />
         <option value="$PROJECT_DIR$/src/qiaojiemoshi/qiaojiemoshishili/Maintest.java" />
+        <option value="$PROJECT_DIR$/src/shengchengqimoshi/Builder3d.java" />
+        <option value="$PROJECT_DIR$/src/shengchengqimoshi/Builder4d.java" />
+        <option value="$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java" />
+        <option value="$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java" />
         <option value="$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java" />
         <option value="$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java" />
         <option value="$PROJECT_DIR$/src/shengchengqimoshi/AbsBuilder.java" />
-        <option value="$PROJECT_DIR$/src/shengchengqimoshi/Builder3d.java" />
-        <option value="$PROJECT_DIR$/src/shengchengqimoshi/Builder4d.java" />
         <option value="$PROJECT_DIR$/src/shengchengqimoshi/Director.java" />
-        <option value="$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java" />
-        <option value="$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/PurchaseRequest.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/Approver.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/GroupApprover.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/DepartMentApprover.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/VicePresidentApprover.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/PisesidentApprover.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/Client.java" />
+        <option value="$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1028" />
-    <option name="y" value="55" />
-    <option name="width" value="804" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="821" />
+    <option name="y" value="71" />
+    <option name="width" value="1513" />
     <option name="height" value="945" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -256,7 +251,7 @@
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shengchengqimoshi" type="462c0819:PsiDirectoryNode" />
+              <item name="zerenlianmoshi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557055275302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557059319175" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest (2)">
+  <component name="RunManager" selected="Application.MainTest (3)">
     <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dailimoshi.RMICandy.MainTest" />
       <module name="design" />
@@ -323,13 +318,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailimoshi.dongtaidaili.MainTest" />
+    <configuration name="MainTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zerenlianmoshi.MainTest" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailimoshi.dongtaidaili.*" />
+          <option name="PATTERN" value="zerenlianmoshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,11 +410,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (3)" />
         <item itemvalue="Application.MainTest (2)" />
         <item itemvalue="Application.Maintest" />
         <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.RemoteMainTest" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -468,18 +463,18 @@
       <workItem from="1556965599813" duration="345000" />
       <workItem from="1556978601541" duration="379000" />
       <workItem from="1556980141424" duration="349000" />
-      <workItem from="1557046440398" duration="4117000" />
+      <workItem from="1557046440398" duration="7685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94315000" />
+    <option name="totallyTimeSpent" value="97883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="823" y="44" width="643" height="756" extended-state="0" />
+    <frame x="793" y="10" width="643" height="756" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.051282052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -488,12 +483,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.53365386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24358974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.69391024" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13942307" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.36178863" />
@@ -516,120 +511,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/HasCoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/SoldOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="40" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="40" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/SoldState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="44" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/WinnerState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="50" selection-end-column="1" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/CandyMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1205">
-          <caret line="75" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/RMICandy/SoldState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/RMICandy/WinnerState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#1348#1349#0" expanded="true" />
-            <element signature="e#1406#1407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dailimoshi/RMICandy/HasCoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dailimoshi/RMICandy/SoldOutState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -936,57 +817,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java">
+    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="38" column="88" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
+        <state relative-caret-position="118">
+          <caret line="35" column="49" lean-forward="true" selection-end-line="53" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-            <element signature="e#1636#1637#0" expanded="true" />
-            <element signature="e#1681#1682#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1764#1765#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/AbsBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Builder3d.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="66">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding>
             <element signature="e#207#208#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
@@ -1004,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Builder4d.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="708">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
             <element signature="e#207#208#0" expanded="true" />
             <element signature="e#224#225#0" expanded="true" />
@@ -1021,10 +866,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/AbsBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Vacation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1594#1595#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/VacationDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="589">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
@@ -1034,21 +935,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/BuilderSelf.java">
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/PurchaseRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="35" column="49" lean-forward="true" selection-end-line="53" />
+        <state relative-caret-position="440">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shengchengqimoshi/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/Approver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="26" column="5" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="198">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/GroupApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="99" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="99" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/DepartMentApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/VicePresidentApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/PisesidentApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>

@@ -12,9 +12,11 @@ public class Director {
     public Director(AbsBuilder absBuilder){
         this.absBuilder = absBuilder;
     }
+
     public void setBuilder(AbsBuilder absBuilder){
         this.absBuilder = absBuilder;
     }
+
     public void construct(){
         absBuilder.buildvacation();
         absBuilder.getVacation().showInfo();
