@@ -22,7 +22,7 @@ public class Originator2 {
         return new Memento(state);
     }
 
-    public void restoreMemento(Memento memento){
+    public void restoreMemento(MementoIF memento){
         state = ((Memento) memento).getState();
     }
 
@@ -31,12 +31,14 @@ public class Originator2 {
     }
 
     public void testState1(){
+        state = new ArrayList<String>();
         state.add("blood:320");
         state.add("progress:gate2 mid");
         state.add("enemy: 15");
     }
 
     public void testState2(){
+        state = new ArrayList<String>();
         state.add("blood:230");
         state.add("progress: gate8 start");
         state.add("enemy:13");

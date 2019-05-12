@@ -20,14 +20,15 @@ public class MenmentoCaretaker {
     public MenmentoCaretaker(){
         mementoIFHashMap = new HashMap<String, MementoIF>();
     }
-    public MementoIF retrieveMemento(String name){
+
+    //获得已经存储的备忘录对象
+    public MementoIF regetMemento(String name){
         return mementoIFHashMap.get(name);
     }
 
-    /**
-     * 备忘录赋值
-     */
+    //保存备忘录
     public void saveMemento(String name, MementoIF mementoIF){
+        //如果名字和之前的相同，就会覆盖
         this.mementoIFHashMap.put(name, mementoIF);
     }
 }
