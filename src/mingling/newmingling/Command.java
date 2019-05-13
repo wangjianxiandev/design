@@ -1,4 +1,4 @@
-package mingling;
+package mingling.newmingling;
 
 /**
  * Created with IntelliJ IDEA.

@@ -1,4 +1,6 @@
-package mingling;
+package mingling.newmingling;
+
+import mingling.old.Light;
 
 /**
  * Created with IntelliJ IDEA.
@@ -9,6 +11,7 @@ package mingling;
  */
 public class LightOnCommand implements Command {
     private Light light;
+    //确定打开哪个灯
     public LightOnCommand(Light light){
         this.light = light;
     }

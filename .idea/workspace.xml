@@ -5,25 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c87f1d4c-d11a-4693-8ecb-0deddc893b14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/CompensationVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanxingmoshi/EventTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanxingmoshi/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanxingmoshi/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanxingmoshi/cloneyuanxing/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanxingmoshi/cloneyuanxing/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/CommandModeControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/MarrcoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/SerenOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/StereoAddVolCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/newmingling/StereoOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/old/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/old/ControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/old/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mingling/old/TraditionControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beiwanglumoshi/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beiwanglumoshi/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beiwanglumoshi/MenmentoCaretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beiwanglumoshi/MenmentoCaretaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beiwanglumoshi/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beiwanglumoshi/Originator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beiwanglumoshi/Originator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beiwanglumoshi/Originator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mingling/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingling/newmingling/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mingling/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingling/old/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mingling/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingling/newmingling/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mingling/NoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingling/newmingling/NoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moban/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moban/MainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +34,92 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/yuanxingmoshi/cloneyuanxing/MainTest.java">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/LightOnCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="364">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/old/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/NoCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/LightOffCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/CommandModeControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+              <folding>
+                <element signature="e#326#335#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,141 +127,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1022#1023#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/Employees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="25" />
-              <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/MainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Element.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-              <folding>
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-                <element signature="e#1157#1158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employees.java">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/MarrcoCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/MainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Visitor.java">
+        <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/SerenOffCommand.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/CompensationVisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="14" column="128" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,25 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/Tree.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/TreesTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/old/TreesTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Plant.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Grass.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Tree.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/PlantFactory.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/PlantManager.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/TreeFlyWeight.java" />
-        <option value="$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/TreeManager.java" />
-        <option value="$PROJECT_DIR$/src/Jishiqimoshi/AbstractExpresstion.java" />
-        <option value="$PROJECT_DIR$/src/Jishiqimoshi/VarExpresstion.java" />
-        <option value="$PROJECT_DIR$/src/Jishiqimoshi/SymbolExpresstion.java" />
-        <option value="$PROJECT_DIR$/src/Jishiqimoshi/MultiExpresstion.java" />
-        <option value="$PROJECT_DIR$/src/Jishiqimoshi/AddExpresstion.java" />
         <option value="$PROJECT_DIR$/src/Jishiqimoshi/SubExpresstion.java" />
         <option value="$PROJECT_DIR$/src/Jishiqimoshi/DivExpresstion.java" />
         <option value="$PROJECT_DIR$/src/Jishiqimoshi/RPN.java" />
@@ -247,19 +198,38 @@
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/Employees.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/MainTest.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Element.java" />
-        <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employee.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Visitor.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/CompensationVisitor.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employees.java" />
+        <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employee.java" />
         <option value="$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/mingling/Light.java" />
+        <option value="$PROJECT_DIR$/src/mingling/Control.java" />
+        <option value="$PROJECT_DIR$/src/mingling/TraditionControl.java" />
+        <option value="$PROJECT_DIR$/src/mingling/Stereo.java" />
+        <option value="$PROJECT_DIR$/src/mingling/old/Stereo.java" />
+        <option value="$PROJECT_DIR$/src/mingling/old/TraditionControl.java" />
+        <option value="$PROJECT_DIR$/src/mingling/old/Light.java" />
+        <option value="$PROJECT_DIR$/src/mingling/old/ControlTest.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/StereoOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/StereoAddVolCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/NoCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/SerenOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/old/Control.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/Control.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/LightOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/LightOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/CommandModeControl.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/MarrcoCommand.java" />
+        <option value="$PROJECT_DIR$/src/mingling/newmingling/MainTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="962" />
-    <option name="y" value="13" />
-    <option name="width" value="885" />
-    <option name="height" value="783" />
+    <option name="x" value="1266" />
+    <option name="y" value="79" />
+    <option name="width" value="1936" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -269,7 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,14 +256,21 @@
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fangwenzhemoshi" type="462c0819:PsiDirectoryNode" />
+              <item name="mingling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fangwenzhemoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fangwenzhe" type="462c0819:PsiDirectoryNode" />
+              <item name="mingling" type="462c0819:PsiDirectoryNode" />
+              <item name="newmingling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mingling" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
@@ -312,13 +289,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557642833595" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557729528834" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -346,7 +323,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.MainTest (1)">
+    <configuration name="ControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mingling.old.ControlTest" />
+      <module name="design" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mingling.old.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mingling.newmingling.MainTest" />
+      <module name="design" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mingling.newmingling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fangwenzhemoshi.MainTest" />
       <module name="design" />
@@ -354,34 +359,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fangwenzhemoshi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhongjiezhemoshi.MainTest" />
-      <module name="design" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhongjiezhemoshi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beiwanglumoshi.MainTest" />
-      <module name="design" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beiwanglumoshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,11 +458,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.ControlTest" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.MainTest (2)" />
         <item itemvalue="Application.MainTest (5)" />
-        <item itemvalue="Application.MainTest (4)" />
-        <item itemvalue="Application.MainTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -543,18 +520,21 @@
       <workItem from="1557453116364" duration="839000" />
       <workItem from="1557463728442" duration="2182000" />
       <workItem from="1557553021450" duration="5135000" />
-      <workItem from="1557636504407" duration="4224000" />
+      <workItem from="1557636504407" duration="5234000" />
+      <workItem from="1557722395559" duration="569000" />
+      <workItem from="1557723678069" duration="266000" />
+      <workItem from="1557723972109" duration="5082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128814000" />
+    <option name="totallyTimeSpent" value="135741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="1912" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2660858" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18683812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,12 +543,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2793296" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.048387095" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13407822" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.048387095" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.36129034" />
@@ -591,130 +571,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zerenlianmoshi/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1027">
-          <caret line="31" column="45" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/old/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" lean-forward="true" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/old/TreesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="17" lean-forward="true" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/TreeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="16" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Plant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Grass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="1" selection-end-line="15" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/PlantFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="10" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/PlantManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="5" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/old/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="18" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/TreeFlyWeight/TreeFlyWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="31" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yingliangmoshi/yingliangfuza/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="23" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jishiqimoshi/AbstractExpresstion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jishiqimoshi/VarExpresstion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" selection-end-line="31" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jishiqimoshi/SymbolExpresstion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="13" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jishiqimoshi/MultiExpresstion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -928,7 +784,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/yuanxingmoshi/cloneyuanxing/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="396">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -938,85 +794,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="858">
+          <caret line="55" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/Employees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="12" selection-start-column="4" selection-end-line="25" />
           <folding>
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/Employees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="25" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="14" column="60" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Element.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/CompensationVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="14" column="128" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+        <state relative-caret-position="748">
+          <caret line="48" selection-end-line="59" />
           <folding>
             <element signature="e#525#526#0" expanded="true" />
             <element signature="e#552#553#0" expanded="true" />
@@ -1034,25 +849,200 @@
             <element signature="e#995#996#0" expanded="true" />
             <element signature="e#1036#1037#0" expanded="true" />
             <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Employees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="308">
+          <caret line="16" column="39" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fangwenzhemoshi/fangwenzhe/CompensationVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/old/TraditionControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/old/ControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/old/Stereo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/old/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/StereoAddVolCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/StereoOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/SerenOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/old/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/LightOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/LightOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/CommandModeControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="e#326#335#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/NoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mingling/newmingling/MarrcoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
           </folding>
         </state>
       </provider>

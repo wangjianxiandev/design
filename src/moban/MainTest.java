@@ -1,7 +1,5 @@
 package moban;
 
-import mingling.Command;
-
 /**
  * Created with IntelliJ IDEA.
  * Description:
